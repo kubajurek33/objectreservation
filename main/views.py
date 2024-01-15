@@ -135,7 +135,6 @@ def TimeCheck(ts,te, date):
             for j in range(a, b+1):
                 t1.append(ts[j])
                 t2.append(te[j])
-                print("abcx")
 
     for x in t1:
         ts.remove(x)
